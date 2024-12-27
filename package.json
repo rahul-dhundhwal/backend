@@ -1,0 +1,14 @@
+{
+  "name": "01backend",
+  "version": "1.0.0",
+  "description": "backend at good level ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Dhundhwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
