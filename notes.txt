@@ -1,0 +1,65 @@
+HeythissideRahul,whoareyou 
+HeythissideViratKholi
+
+
+
+----------------------------------------------------------------------------------------
+
+
+HTTP :- Hyper Text Transfer Protocol
+
+URL uniform resource locator
+URI                  identifier
+URN                  name
+
+HTTP Headers :- meatdata (open rkhi gyi h )
+
+Request Header --------->from client 
+response Header -------->from servers
+representation Header --> encoding/comprasion
+payload Header----------> data
+
+Most commmon Headers
+Accept: application/json
+user-agent
+atuthorisation
+content-type
+cookie
+cache-control
+
+
+------CORS---------
+Access-control-allow-origin
+access-control-allow-credentials
+access-control-allow-method
+
+
+----------Security---------
+cross-origin-embedder-policy
+cross-origin-opener-policy
+
+content-security-policy
+X-XSS-Protection
+
+
+
+----------------------------------
+HTTP methods
+GET:-retrieve a resource
+Head: No message body(response header only)
+Options: what operation are available 
+Trace: loopback test(get some data)
+DElete : remove a resource
+PUT : replace a resource
+POST : intract with resource(mostly add)
+PATCH : change part of resource
+
+
+
+----------------
+status code
+1xx -infromational
+2xx-success
+3xx--redirection
+4xx-client error
+5xx-server error 
